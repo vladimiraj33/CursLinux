@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+echo "sa traiesti nepoate"
 read -p "a=  " a
 read -p "b=  " b
 read -p "op= " op
